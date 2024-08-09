@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Tanmay is a passionate Cloud and DevOps enthusiast with hands-on experience in AI/ML and web development projects. I love building scalable solutions and automating the future!"</p>
+<p align="left">Tanmay is a passionate Cloud and DevOps enthusiast with hands-on experience in AI/ML and web development projects. and love building scalable solutions and automating the future!"</p>
 
 ###
 
